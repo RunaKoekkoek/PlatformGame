@@ -1,0 +1,15 @@
+C:\Users\runak\source\repos\Platform Game Runa\Platform Game Runa\bin\Debug\Platform Game Runa.exe.config
+C:\Users\runak\source\repos\Platform Game Runa\Platform Game Runa\bin\Debug\Platform Game Runa.exe
+C:\Users\runak\source\repos\Platform Game Runa\Platform Game Runa\bin\Debug\Platform Game Runa.pdb
+C:\Users\runak\source\repos\Platform Game Runa\Platform Game Runa\obj\Debug\Platform Game Runa.csproj.AssemblyReference.cache
+C:\Users\runak\source\repos\Platform Game Runa\Platform Game Runa\obj\Debug\Platform_Game_Runa.Form1.resources
+C:\Users\runak\source\repos\Platform Game Runa\Platform Game Runa\obj\Debug\Platform_Game_Runa.Properties.Resources.resources
+C:\Users\runak\source\repos\Platform Game Runa\Platform Game Runa\obj\Debug\Platform Game Runa.csproj.GenerateResource.cache
+C:\Users\runak\source\repos\Platform Game Runa\Platform Game Runa\obj\Debug\Platform Game Runa.csproj.CoreCompileInputs.cache
+C:\Users\runak\source\repos\Platform Game Runa\Platform Game Runa\obj\Debug\Platform Game Runa.exe
+C:\Users\runak\source\repos\Platform Game Runa\Platform Game Runa\obj\Debug\Platform Game Runa.pdb
+C:\Users\runak\source\repos\Platform Game Runa\Platform Game Runa\obj\Debug\Platform_Game_Runa.Form2.resources
+C:\Users\Runa\Downloads\Platform Game Runa\Platform Game Runa\Platform Game Runa\obj\Debug\Platform Game Runa.csproj.AssemblyReference.cache
+C:\Users\Runa\Downloads\Platform Game Runa\Platform Game Runa\Platform Game Runa\obj\Debug\Platform Game Runa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Runa\Downloads\Platform Game Runa\Platform Game Runa\Platform Game Runa\obj\Debug\Platform Game Runa.exe
+C:\Users\Runa\Downloads\Platform Game Runa\Platform Game Runa\Platform Game Runa\obj\Debug\Platform Game Runa.pdb
